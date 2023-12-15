@@ -9,6 +9,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How to create, work, and resolves tickets within osTicket](https://youtu.be/IzkW6RXvg7I?si=GT7MbVmUAlbRGqoJ)
+- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://youtu.be/IHcMBVq40iE?si=cNLaGg92smHphdkO)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -33,10 +34,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![image](https://github.com/kayetech84/ticket-lifecycle/assets/153541024/0806dde1-b4a2-408a-8a79-0b42986a45e3)
 
+![image](https://github.com/kayetech84/ticket-lifecycle/assets/153541024/b0e78beb-d467-4c38-9b78-7b6240431e2f)
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Work tickets as an admin or an agent. View all tickets and who they may be assigned to. And the tickets can be assigned. Once a ticket is opened there is an email style template for responding. Sections for tickets: OPEN/ MY TICKETS/ CLOSED/ SEARCH/ NEW TICKET
 </p>
+
 <br />
 
